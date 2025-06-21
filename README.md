@@ -38,22 +38,16 @@ Click below to launch the website and get your disposable inbox in seconds:
 ---
 ## 🔮 Future Improvements
 
-- 🌍 Multi-Domain Support
-Allow users to select from different temporary email domains for added flexibility.
+- 🌍 **Multi-Domain Support** - Allow users to select from different temporary email domains for added flexibility.
 
-- 📬 Custom Alias Emails
-Let users generate emails with a specific alias (e.g., soumya880@tempdomain.com).
+- 📬 **Custom Alias Emails** - Let users generate emails with a specific alias (e.g., soumya880@tempdomain.com).
 
-- 🗑️ Manual Inbox Clearing
-Add a button for users to manually clear their inbox.
+- 🗑️ **Manual Inbox Clearing** - Add a button for users to manually clear their inbox.
 
-- 🔐 Password-Protected Inboxes
-Let users optionally lock their temp inbox with a passcode or OTP to prevent misuse.
+- 🔐 **Password-Protected Inboxes** - Let users optionally lock their temp inbox with a passcode or OTP to prevent misuse.
 
-- 📤 Email Export
-Provide options to export individual emails or the full inbox as .eml or .pdf.
+- 📤 **Email Export** - Provide options to export individual emails or the full inbox as .eml or .pdf.
 
-- 📱 Progressive Web App (PWA)
-Make the site installable on phones with offline support and push notifications.
+- 📱 **Progressive Web App (PWA)** - Make the site installable on phones with offline support and push notifications.
 
 ---
