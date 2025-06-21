@@ -11,7 +11,7 @@ A fast, modern, and secure **temporary email generator** built with the latest w
 🎉 Experience the magic of instant email without the spam!  
 Click below to launch the website and get your disposable inbox in seconds:
 
-👉 [**Launch Temp Mail Generator**](https://soumya880.github.io/TempMail-Generator-Website/)
+👉 [**Launch Temp Mail Generator**](https://lovable.dev/projects/aed13637-d003-4906-948a-a3ccc554843c))
  
 💡 Perfect for testing, signing up on websites, or staying anonymous online!
 
