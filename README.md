@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+# 📧 Temp Mail Generator
 
-## Project info
+## 🔗 Overview
 
-**URL**: https://lovable.dev/projects/aed13637-d003-4906-948a-a3ccc554843c
+A fast, modern, and secure **temporary email generator** built with the latest web technologies. Create disposable email addresses in one click, receive messages instantly, and protect your privacy — no signups, no personal data shared.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Live Demo
 
-**Use Lovable**
+🎉 Experience the magic of instant email without the spam!  
+Click below to launch the website and get your disposable inbox in seconds:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/aed13637-d003-4906-948a-a3ccc554843c) and start prompting.
+👉 [**Launch Temp Mail Generator**](https://soumya880.github.io/TempMail-Generator-Website/)
+ 
+💡 Perfect for testing, signing up on websites, or staying anonymous online!
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🚀 Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- ⚡ Instant temporary email address generation
+- 📥 Real-time inbox with incoming messages
+- 🧹 Auto-expiring emails to maintain privacy
+- 🛡️ Hide your personal email from spammers
+- 🧑‍💻 Clean, modern UI with fully responsive design
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Built With
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- ⚙️ **Vite** – Lightning-fast development build tool
+- 💻 **React** – Component-based UI development
+- 🧠 **TypeScript** – Type-safe JavaScript for better reliability
+- 🎨 **Tailwind CSS** – Utility-first responsive styling
+- 🧩 **shadcn/ui** – Beautiful, accessible component library
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
+## 🔮 Future Improvements
 
-# Step 3: Install the necessary dependencies.
-npm i
+- 🌍 Multi-Domain Support
+Allow users to select from different temporary email domains for added flexibility.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- 📬 Custom Alias Emails
+Let users generate emails with a specific alias (e.g., soumya880@tempdomain.com).
 
-**Edit a file directly in GitHub**
+- 🗑️ Manual Inbox Clearing
+Add a button for users to manually clear their inbox.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- 🔐 Password-Protected Inboxes
+Let users optionally lock their temp inbox with a passcode or OTP to prevent misuse.
 
-**Use GitHub Codespaces**
+- 📤 Email Export
+Provide options to export individual emails or the full inbox as .eml or .pdf.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- 📱 Progressive Web App (PWA)
+Make the site installable on phones with offline support and push notifications.
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/aed13637-d003-4906-948a-a3ccc554843c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
